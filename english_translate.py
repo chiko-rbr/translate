@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 
-url = 'スクレイピングしたい場所のurl'
+url = 'url'
 
 r = requests.get(url)
 
